@@ -11,4 +11,4 @@ Infant mortality rate (IMR) is not only a group of statistic but instead it is a
 Analysis
 ---------
 
-We try to analyse the percentage Infant Morality Rate in States and Union Territory of India.
+We try to analyse the percentage Infant Morality Rate in States and Union Territory of India
