@@ -13,4 +13,4 @@ Analysis
 
 We try to analyse the percentage Infant Morality Rate in States and Union Territory of India
 
-[d](https://github.com/priyankt68/exploratory_data_analysis/blob/master/plot/imr.png)
+![d](https://github.com/priyankt68/exploratory_data_analysis/blob/master/plot/imr.png)
